@@ -2,6 +2,7 @@
   "name": "@hexlet/code",
   "version": "1.0.0",
   "description": "first js hexlet project",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/pilgrim-nord/frontend-project-44/issues"
   },
-  "homepage": "https://github.com/pilgrim-nord/frontend-project-44#readme"
+  "homepage": "https://github.com/pilgrim-nord/frontend-project-44#readme",
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+}
 }
