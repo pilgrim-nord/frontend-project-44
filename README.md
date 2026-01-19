@@ -2,3 +2,6 @@
 [![Actions Status](https://github.com/pilgrim-nord/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/pilgrim-nord/frontend-project-44/actions)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=pilgrim-nord_frontend-project-44&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=pilgrim-nord_frontend-project-44)
 [![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=pilgrim-nord_frontend-project-44)](https://sonarcloud.io/summary/new_code?id=pilgrim-nord_frontend-project-44)
+
+asciinema brain-even
+[![asciicast](https://asciinema.org/a/L7TmLdY28bjn5qzI.svg)](https://asciinema.org/a/L7TmLdY28bjn5qzI)
