@@ -11,3 +11,6 @@ asciinema brain-calc
 
 asciinema brain-gcd
 [![asciicast](https://asciinema.org/a/mNng4EEDZS8eLg9Z.svg)](https://asciinema.org/a/mNng4EEDZS8eLg9Z)
+
+asciinema brain-progression
+[![asciicast](https://asciinema.org/a/i79UObCBC1oRfIFc.svg)](https://asciinema.org/a/i79UObCBC1oRfIFc)
