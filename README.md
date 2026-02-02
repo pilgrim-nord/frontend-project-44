@@ -5,3 +5,6 @@
 
 asciinema brain-even
 [![asciicast](https://asciinema.org/a/L7TmLdY28bjn5qzI.svg)](https://asciinema.org/a/L7TmLdY28bjn5qzI)
+
+asciinema brain-calc
+[![asciicast](https://asciinema.org/a/1MHZbXa3ai0ydD8C.svg)](https://asciinema.org/a/1MHZbXa3ai0ydD8C)
