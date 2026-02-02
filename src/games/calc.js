@@ -1,5 +1,3 @@
-import { question } from 'readline-sync'
-
 const MIN_RANDOM_NUMBER = 1
 const MAX_RANDOM_NUMBER = 20
 
