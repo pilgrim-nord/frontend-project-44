@@ -3,3 +3,8 @@
 coverage
 .DS_Store
 /.idea/
+.env
+.env.local
+.vscode/
+*.cast
+num
