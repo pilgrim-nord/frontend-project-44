@@ -1,3 +1,5 @@
+import randInt from '../my-random.js'
+
 const MIN_START_PROGRESSION = 1
 const MAX_START_PROGRESSION = 15
 
@@ -19,10 +21,10 @@ const makeProgression = (start, step, length) => {
 }
 
 const createTaskAndRightAnswer = () => {
-  const startNumber = Math.floor(Math.random() * (MAX_START_PROGRESSION - MIN_START_PROGRESSION + 1)) + MIN_START_PROGRESSION
-  const step = Math.floor(Math.random() * (MAX_STEP_PROGRESSION - MIN_STEP_PROGRESSION + 1)) + MIN_STEP_PROGRESSION
-  const length = Math.floor(Math.random() * (MAX_PROGRESSION_LENGTH - MIN_PROGRESSION_LENGTH + 1)) + MIN_PROGRESSION_LENGTH
-  const answerPosition = Math.floor(Math.random() * length)
+  const startNumber = randInt(MIN_START_PROGRESSION, MAX_START_PROGRESSION)
+  const step = randInt(MIN_STEP_PROGRESSION, MAX_STEP_PROGRESSION)
+  const length = randInt(MIN_PROGRESSION_LENGTH, MAX_PROGRESSION_LENGTH)
+  const answerPosition = randInt(0, length - 1)
   const draftProgression = makeProgression(startNumber, step, length)
   const rightAnswer = draftProgression[answerPosition]
   draftProgression[answerPosition] = '..'
