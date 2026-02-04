@@ -1,4 +1,4 @@
-import random from '../my-random.js'
+import randInt from '../my-random.js'
 
 const MIN_RANDOM_NUMBER = 1
 const MAX_RANDOM_NUMBER = 100
